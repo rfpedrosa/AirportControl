@@ -15,4 +15,4 @@ You can play it [here](http://mobijewels.com/airportcontrol/)
 
 ## License
 
-This project is licensed under the Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under GNU Lesser General Public License v3.0 - see the [LICENSE](LICENSE) file for details
